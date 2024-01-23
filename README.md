@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nada Usama
 - 👀 I’m interested in AI and Data Science
 - 🌱 I’m currently learning AI 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on AI/ML projects
 - 📫 How to reach me : via email as nadau6815@gmail.com ,and my phone number +201154851196 
 - ⚡ Fun fact: Good listener
 
